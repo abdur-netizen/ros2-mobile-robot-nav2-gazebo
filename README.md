@@ -30,11 +30,11 @@ The ROS 2 package is provided in [sim_mobile_robot_nav2.zip](sim_mobile_robot_na
 
 ### Gazebo maze world
 
-![Gazebo maze simulation](docs/images/gazebo-maze.png)
+![Gazebo maze simulation](docs/images/maze_sdf_gazebo.png)
 
 ### RViz2 Nav2 visualization
 
-![RViz2 navigation visualization](docs/images/rviz-nav2.png)
+![RViz2 navigation visualization](docs/images/RViz_nav2.png)
 
 ## Requirements
 
